@@ -26,3 +26,13 @@ Ref:
 
 - 微軟文件：[System.Threading.Channels 程式庫](https://learn.microsoft.com/zh-tw/dotnet/core/extensions/channels)
 - "Learning Concurrent Programming with Go" [Part 2: Message passing](https://livebook.manning.com/book/learn-concurrent-programming-with-go/chapter-7/)
+
+## AI prompts
+
+### Microsoft Designer
+
+URL: https://designer.microsoft.com/image-creator
+
+Prompts:
+
+- 用簡單的鉛筆線條呈現披薩店有一名廚師，用三個烤箱來燒烤披薩，以呈現 concurrency 的隱喻。圖畫不要有顏色，使用極簡的黑白線條，手繪風格，不要畫陰影。
